@@ -29,8 +29,10 @@ handleSearch= (event) => {
   })
 }
 
-addPokemon = () => {
-
+addPokemon = (pokemon) => {
+  this.setState({
+    pokemons: [...this.state.pokemons, pokemon]
+  })
 }
 
   render() {
