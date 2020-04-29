@@ -18,7 +18,8 @@ componentDidMount(){
   .then(response => response.json())
   .then(data => {
     this.setState({
-      pokemons: data
+      pokemons: pokemons, 
+      displayedPokemons: pokemons
     })
   })
 }
