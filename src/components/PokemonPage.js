@@ -16,7 +16,7 @@ class PokemonPage extends React.Component {
 componentDidMount(){
   fetch(API)
   .then(response => response.json())
-  .then(data => {
+  .then(pokemons => {
     this.setState({
       pokemons: pokemons, 
       displayedPokemons: pokemons
