@@ -7345,6 +7345,120 @@
         "back": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAAAHlBMVEX///9zrDE5lJQQEBBSYikYSkqk1UFi1bQxc3O9/3Mgvz5FAAAB5klEQVR4nO3a4W6CMBSGYbCswP3f8Pxy7E4LGJcFR1vfJ2FzmT/Om5Ta6YYBAAAAAAAAAAAAAAAAAAAAAAAADZkmXfraqMYDpmlddcXYaEIHATKOMY5jkwmNB0yTlo4oID0+fu7X3f9O9wsdBGjh6IpRCWkpbUM0/HwXwnWzHuoiYF1tE43RIuymlnC3PMwzAedLt66xW9kjLCMEDX672VcCzlUGlMtH7CdL0PjLQsCZ9uOnF7NxzCM8oLIl1HhAGn9dbRv1hP1CCuH2UNFhovGAcnwLSOOnsf2xB1ST0FlAOsiVPMED5pmAM/gBOt28R44DqlhEnQQcj32UkAdUsYg+LCDfRJVQwXHiowOqONA1HzAMIbxOKMdflorG/6AAja83tewYR8CZXifobS0b3BLsunruH80HKCGEZwn5n5H5Irp65kLjATbUPkKjp8Xjm2dVW6jpICAtj7Dhi8YOzwS8gz648C0yH9JvW/tQScfnyo4R0kWAvTDlCXmKL6IQKjtESBcB5UFhG5DfutUtoE4CUsIrBLyHJRwtmvL4oBc6+371xBsdBPi/EWw3zzxGm6iee/W8O80HWILJH/tRWuPrN1fP+VTzAc/lMVfP8ifNBwAAAAAAAAAAAAAAAAAAAAAAAGD4Bnl9IoH4vs9cAAAAAElFTkSuQmCC"
       },
       "id": 207
+    },
+    {
+      "name": "Beef",
+      "stats": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "value": 100,
+          "name": "hp"
+        }
+      ],
+      "sprites": {
+        "front": "test.front",
+        "back": "test.back"
+      },
+      "id": 208
+    },
+    {
+      "name": "bulbasaur",
+      "stats": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "value": 100,
+          "name": "hp"
+        }
+      ],
+      "sprites": {
+        "front": "https://i.pinimg.com/originals/46/7e/db/467edb818bc862ef7f54dece5df4d762.png",
+        "back": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAAAHlBMVEX///9zrDE5lJQQEBBSYikYSkqk1UFi1bQxc3O9/3Mgvz5FAAAB5klEQVR4nO3a4W6CMBSGYbCswP3f8Pxy7E4LGJcFR1vfJ2FzmT/Om5Ta6YYBAAAAAAAAAAAAAAAAAAAAAAAADZkmXfraqMYDpmlddcXYaEIHATKOMY5jkwmNB0yTlo4oID0+fu7X3f9O9wsdBGjh6IpRCWkpbUM0/HwXwnWzHuoiYF1tE43RIuymlnC3PMwzAedLt66xW9kjLCMEDX672VcCzlUGlMtH7CdL0PjLQsCZ9uOnF7NxzCM8oLIl1HhAGn9dbRv1hP1CCuH2UNFhovGAcnwLSOOnsf2xB1ST0FlAOsiVPMED5pmAM/gBOt28R44DqlhEnQQcj32UkAdUsYg+LCDfRJVQwXHiowOqONA1HzAMIbxOKMdflorG/6AAja83tewYR8CZXifobS0b3BLsunruH80HKCGEZwn5n5H5Irp65kLjATbUPkKjp8Xjm2dVW6jpICAtj7Dhi8YOzwS8gz648C0yH9JvW/tQScfnyo4R0kWAvTDlCXmKL6IQKjtESBcB5UFhG5DfutUtoE4CUsIrBLyHJRwtmvL4oBc6+371xBsdBPi/EWw3zzxGm6iee/W8O80HWILJH/tRWuPrN1fP+VTzAc/lMVfP8ifNBwAAAAAAAAAAAAAAAAAAAAAAAGD4Bnl9IoH4vs9cAAAAAElFTkSuQmCC"
+      },
+      "id": 209
+    },
+    {
+      "name": "Poppy",
+      "stats": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "value": 300,
+          "name": "hp"
+        }
+      ],
+      "sprites": {
+        "front": "yes",
+        "back": "yes"
+      },
+      "id": 210
+    },
+    {
+      "name": "poppy",
+      "stats": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "value": 300,
+          "name": "hp"
+        }
+      ],
+      "sprites": {
+        "front": "https://i.pinimg.com/originals/46/7e/db/467edb818bc862ef7f54dece5df4d762.png",
+        "back": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAAAHlBMVEX///9zrDE5lJQQEBBSYikYSkqk1UFi1bQxc3O9/3Mgvz5FAAAB5klEQVR4nO3a4W6CMBSGYbCswP3f8Pxy7E4LGJcFR1vfJ2FzmT/Om5Ta6YYBAAAAAAAAAAAAAAAAAAAAAAAADZkmXfraqMYDpmlddcXYaEIHATKOMY5jkwmNB0yTlo4oID0+fu7X3f9O9wsdBGjh6IpRCWkpbUM0/HwXwnWzHuoiYF1tE43RIuymlnC3PMwzAedLt66xW9kjLCMEDX672VcCzlUGlMtH7CdL0PjLQsCZ9uOnF7NxzCM8oLIl1HhAGn9dbRv1hP1CCuH2UNFhovGAcnwLSOOnsf2xB1ST0FlAOsiVPMED5pmAM/gBOt28R44DqlhEnQQcj32UkAdUsYg+LCDfRJVQwXHiowOqONA1HzAMIbxOKMdflorG/6AAja83tewYR8CZXifobS0b3BLsunruH80HKCGEZwn5n5H5Irp65kLjATbUPkKjp8Xjm2dVW6jpICAtj7Dhi8YOzwS8gz648C0yH9JvW/tQScfnyo4R0kWAvTDlCXmKL6IQKjtESBcB5UFhG5DfutUtoE4CUsIrBLyHJRwtmvL4oBc6+371xBsdBPi/EWw3zzxGm6iee/W8O80HWILJH/tRWuPrN1fP+VTzAc/lMVfP8ifNBwAAAAAAAAAAAAAAAAAAAAAAAGD4Bnl9IoH4vs9cAAAAAElFTkSuQmCC"
+      },
+      "id": 211
+    },
+    {
+      "name": "Jesse",
+      "stats": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "value": 28,
+          "name": "hp"
+        }
+      ],
+      "sprites": {
+        "front": "https://i.pinimg.com/originals/46/7e/db/467edb818bc862ef7f54dece5df4d762.png",
+        "back": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAAAHlBMVEX///9zrDE5lJQQEBBSYikYSkqk1UFi1bQxc3O9/3Mgvz5FAAAB5klEQVR4nO3a4W6CMBSGYbCswP3f8Pxy7E4LGJcFR1vfJ2FzmT/Om5Ta6YYBAAAAAAAAAAAAAAAAAAAAAAAADZkmXfraqMYDpmlddcXYaEIHATKOMY5jkwmNB0yTlo4oID0+fu7X3f9O9wsdBGjh6IpRCWkpbUM0/HwXwnWzHuoiYF1tE43RIuymlnC3PMwzAedLt66xW9kjLCMEDX672VcCzlUGlMtH7CdL0PjLQsCZ9uOnF7NxzCM8oLIl1HhAGn9dbRv1hP1CCuH2UNFhovGAcnwLSOOnsf2xB1ST0FlAOsiVPMED5pmAM/gBOt28R44DqlhEnQQcj32UkAdUsYg+LCDfRJVQwXHiowOqONA1HzAMIbxOKMdflorG/6AAja83tewYR8CZXifobS0b3BLsunruH80HKCGEZwn5n5H5Irp65kLjATbUPkKjp8Xjm2dVW6jpICAtj7Dhi8YOzwS8gz648C0yH9JvW/tQScfnyo4R0kWAvTDlCXmKL6IQKjtESBcB5UFhG5DfutUtoE4CUsIrBLyHJRwtmvL4oBc6+371xBsdBPi/EWw3zzxGm6iee/W8O80HWILJH/tRWuPrN1fP+VTzAc/lMVfP8ifNBwAAAAAAAAAAAAAAAAAAAAAAAGD4Bnl9IoH4vs9cAAAAAElFTkSuQmCC"
+      },
+      "id": 212
+    },
+    {
+      "name": "poppy",
+      "stats": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "value": 9999,
+          "name": "hp"
+        }
+      ],
+      "sprites": {
+        "front": "https://zoom.us/j/898760609?pwd=bDhVSjkycnA4L2wxdDF4WndzNm9vQT09",
+        "back": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApw1AAAAHlBMVEX///9zrDE5lJQQEBBSYikYSkqk1UFi1bQxc3O9/3Mgvz5FAAAB5klEQVR4nO3a4W6CMBSGYbCswP3f8Pxy7E4LGJcFR1vfJ2FzmT/Om5Ta6YYBAAAAAAAAAAAAAAAAAAAAAAAADZkmXfraqMYDpmlddcXYaEIHATKOMY5jkwmNB0yTlo4oID0+fu7X3f9O9wsdBGjh6IpRCWkpbUM0/HwXwnWzHuoiYF1tE43RIuymlnC3PMwzAedLt66xW9kjLCMEDX672VcCzlUGlMtH7CdL0PjLQsCZ9uOnF7NxzCM8oLIl1HhAGn9dbRv1hP1CCuH2UNFhovGAcnwLSOOnsf2xB1ST0FlAOsiVPMED5pmAM/gBOt28R44DqlhEnQQcj32UkAdUsYg+LCDfRJVQwXHiowOqONA1HzAMIbxOKMdflorG/6AAja83tewYR8CZXifobS0b3BLsunruH80HKCGEZwn5n5H5Irp65kLjATbUPkKjp8Xjm2dVW6jpICAtj7Dhi8YOzwS8gz648C0yH9JvW/tQScfnyo4R0kWAvTDlCXmKL6IQKjtESBcB5UFhG5DfutUtoE4CUsIrBLyHJRwtmvL4oBc6+371xBsdBPi/EWw3zzxGm6iee/W8O80HWILJH/tRWuPrN1fP+VTzAc/lMVfP8ifNBwAAAAAAAAAAAAAAAAAAAAAAAGD4Bnl9IoH4vs9cAAAAAElFTkSuQmCC"
+      },
+      "id": 213
     }
   ]
 }

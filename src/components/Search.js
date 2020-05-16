@@ -1,28 +1,33 @@
-import React from 'react'
+import React, {useContext} from 'react'
+import { SearchPContext, SortPContext, FilterTypeContext } from './Store'
 
-const Search = props => {
+const Search = () => {
+  const [, setSearchP] = useContext(SearchPContext)
+  const [sortP, setSortP] = useContext(SortPContext)
+  const [filterType, setFilterType] = useContext(FilterTypeContext)
+
   return (
     <div className="ui search">
 
       <div className="ui icon input">
-        <input className="prompt" onChange={props.onSearchChange} />
+        <input className="prompt" onChange={e => setSearchP(e.target.value)} />
         <i className="search icon" />
       </div>
       <div>
         <strong>Sort by:</strong>
         <label>
-          <input type="radio" value="name" checked={props.sortPokemon === "name"} onChange={props.handleSort}/>
+          <input type="radio" value="name" checked={sortP === "name"} onChange={e => setSortP(e.target.value)}/>
           Name
         </label>
         <label>
-          <input type="radio" value="hp" checked={props.sortPokemon === "hp"} onChange={props.handleSort}/>
+          <input type="radio" value="hp" checked={sortP === "hp"} onChange={e => setSortP(e.target.value)}/>
           HP
         </label>
         <br/>
 
         <label>
           <strong>Filter Type: </strong>
-          <select value={props.filter} onChange={props.handleFilter}>
+          <select value={filterType} onChange={e => setFilterType(e.target.value)}>
             <option value="">None</option>
             <option value="bug">bug</option>
             <option value="fire">fire</option>
@@ -31,7 +36,6 @@ const Search = props => {
           </select>
         </label>
       </div>
-
     </div>
   )
 }
